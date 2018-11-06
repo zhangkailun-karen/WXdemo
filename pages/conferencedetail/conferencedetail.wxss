@@ -1,0 +1,10 @@
+@import '../space/space.wxss';
+.container{
+    width: 100%;
+    background: red;
+    height: 200rpx;
+}
+.halfwidth-item{
+	width: 50%;
+	display: inline-block;
+}
